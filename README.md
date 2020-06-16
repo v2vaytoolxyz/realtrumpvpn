@@ -1,1 +1,1 @@
-https://v2raytool.xyz
+https://jiang.netlify.app
